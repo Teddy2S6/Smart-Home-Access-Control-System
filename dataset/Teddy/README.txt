@@ -1,0 +1,1 @@
+This folder would contain photos of the home owner for the facial recogniton to process and recognise
